@@ -1,0 +1,9 @@
+Project title: 
+Project author(s):
+Data file title: bananaData.csv
+Date of file creation: 
+Data source: These data were recorded for the banana energy bar trial. 
+Data organisation: The data file is in Tidy format with one row per observation. Below we explain the columns in the data file and what they contain.
+
+pid: unique participant id number. Integers ranging from 1 to 10.
+[column2 etc...]
