@@ -86,7 +86,7 @@ library(papaja)
 
 * Go to https://osf.io/ and create an account (or sign in).
 * Go to https://osf.io/dashboard and click on "create new project". Enter a title for your project e.g., "Reproducibility class exercise" (or something more exciting). Add your copilot as a collaborator. Create a component called 'data' and a component called 'analysis'.
-* Fork the repo and clone it to your computer.
+* Fork [the repo](https://github.com/TomHardwicke/reproducible-paper-tutorial) and clone it to your computer.
 * Open up R Studio. Create a new project that points to the repo you downloaded.
 
 **When you're done, put up a green/yellow post-it. If you get stuck, put up a pink/red post-it**
